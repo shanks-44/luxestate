@@ -1,0 +1,6 @@
+{
+  "name": "LuxeEstate India",
+  "description": "Discover India's finest luxury properties, premium apartments, villas, and real estate market trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
